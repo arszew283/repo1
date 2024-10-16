@@ -4,6 +4,7 @@ int main()
 {
 
 	printf("Hello World!");
+	for(;;)
 	return 0;
 
 }
